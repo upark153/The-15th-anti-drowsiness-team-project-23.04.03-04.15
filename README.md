@@ -1,5 +1,7 @@
 # The-15th-anti-drowsiness-project
 By detecting drowsiness with a CNN model, an alarm system for preventing workers' drowsiness is built.
+last GUI correction
+![image](https://user-images.githubusercontent.com/115389450/233039468-f96a9c00-2597-4d19-8bba-30e671f6ee65.png)
 
 connection | disconnection
 :-: | :-:
